@@ -11,11 +11,8 @@ Portfolio: [alexanderalmeida.vercel.app](https://alexanderalmeida.vercel.app)
 
 ## My Skills:
 Html:
-
 -Tags
-
 -Tables and forms
-
 -Dynamic pages and text formatting
 
 CSS / SASS / Chakra UI / Styled-Components:
