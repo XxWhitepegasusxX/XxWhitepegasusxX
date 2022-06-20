@@ -2,14 +2,20 @@
 Highly Qualified, Self motivated and extensively focused Engineer with expertise in front end software development, equipped with a diverse and promising skill-set, looking for a full-time position who challenges the technologies. Able to effectively self-manage during independent projects or as a team with perfect work ethics and propose new ideas for team's benefit. Enthusiastic to learn and implement any new skills in a given task.
 
 ## Social
+
 Email: alexanderalmeida3040@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/alexander-almeida-dev/
+
 Portfolio: [alexanderalmeida.vercel.app](https://alexanderalmeida.vercel.app)
 
 ## My Skills:
 Html:
+
 -Tags
+
 -Tables and forms
+
 -Dynamic pages and text formatting
 
 CSS / SASS / Chakra UI / Styled-Components:
