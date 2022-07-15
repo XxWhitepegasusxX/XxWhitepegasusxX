@@ -46,8 +46,7 @@
 
 ###
 
-<br clear="both">
-
 <img href="https://raw.githubusercontent.com/xxwhitepegasusxx/xxwhitepegasusxx/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+Profile Readme Generator
