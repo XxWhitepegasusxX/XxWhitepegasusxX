@@ -46,7 +46,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/xxwhitepegasusxx/xxwhitepegasusxx/blob/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
-###
-Profile Readme Generator
+<img href="https://raw.githubusercontent.com/xxwhitepegasusxx/xxwhitepegasusxx/blob/output/snake.svg" alt="Snake animation" />
