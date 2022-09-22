@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I'm Alexander Almeida, I am a front end software engineer!😀</h2>
+<h2 align="left">I'm Alexander Almeida, I am a Full Stack software engineer!😀</h2>
 
 ###
 
