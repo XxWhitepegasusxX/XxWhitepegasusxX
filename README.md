@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">About me:<br>Highly Qualified, Self motivated and extensively focused Engineer with expertise in front end software development, equipped with a diverse and promising skill-set, looking for a full-time position who challenges the technologies. Able to effectively self-manage during independent projects or as a team with perfect work ethics and propose new ideas for team's benefit. Enthusiastic to learn and implement any new skills in a given task.</h3>
+<h3 align="left">About me:<br>Highly Qualified, Self motivated and extensively focused Engineer with expertise in full stack software development, equipped with a diverse and promising skill-set, looking for a full-time position who challenges the technologies. Able to effectively self-manage during independent projects or as a team with perfect work ethics and propose new ideas for team's benefit. Enthusiastic to learn and implement any new skills in a given task.</h3>
 
 ###
 
